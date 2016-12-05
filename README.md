@@ -1,2 +1,2 @@
-# Kconfig
-the collection of Kconfig
+# config
+the collection of configs
